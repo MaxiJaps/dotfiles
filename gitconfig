@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = japsenne@gmail.com
+	name = Maxime Japsenne
